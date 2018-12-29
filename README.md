@@ -1,5 +1,7 @@
 # vue-collapsible-panel-component
 
+for my blogpost @https://visualbean.io/2018/12/29/vue-collapsible-panel-component/
+
 ## Project setup
 ```
 yarn install
