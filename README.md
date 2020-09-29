@@ -1,6 +1,6 @@
 # vue-collapsible-panel-component
 
-for my blogpost @https://visualbean.io/2018/12/29/vue-collapsible-panel-component/
+for my blogpost @https://medium.com/@visualbean/vue-collapsible-panel-component-with-persisted-state-551529b77307
 
 ## Project setup
 ```
